@@ -21,3 +21,7 @@ jobs:
         with:
           target_branch: 'main'
           section_identifier: 'guestbook-section'
+          include_body_formatting: true
+          close_outdated_issues: true
+          remote_repo: 'nfhipona'
+          entry_labels: ''
