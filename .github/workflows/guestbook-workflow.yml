@@ -24,4 +24,4 @@ jobs:
           include_body_formatting: true
           close_outdated_issues: true
           remote_repo: 'nfhipona'
-          entry_labels: ''
+          entry_labels: 'guestbook_entry'
