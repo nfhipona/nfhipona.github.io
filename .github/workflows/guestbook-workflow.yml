@@ -1,0 +1,23 @@
+name: Guestbook Workflow
+on:
+  schedule: # Run scheduled workflow automatically
+    # Runs: At minute 30.
+    - cron: '30 * * * *'
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  issues:
+    types: [opened, closed, reopened, deleted, edited]
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update_guestbook:
+    name: Update this repo's README with guestbook's latest activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Update guestbook
+        uses: nfhipona/guestbook-workflow@main
+        with:
+          target_branch: 'main'
+          section_identifier: 'guestbook-section'
