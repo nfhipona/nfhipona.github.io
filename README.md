@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 &nbsp;StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Import issue with &#39;flatpickr&#39; missing package index.js in @carbon components](https://stackoverflow.com/questions/74792802/import-issue-with-flatpickr-missing-package-index-js-in-carbon-components)
+- [Answer by eNeF for Git is not working after macOS update &lpar;&quot;xcrun: error: invalid active developer path &lpar;/Library/Developer/CommandLineTools&quot;&rpar;](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-p/74202111#74202111)
+- [Answer by eNeF for Wrap text around some view in SwiftUI](https://stackoverflow.com/questions/64494344/wrap-text-around-some-view-in-swiftui/72541003#72541003)
+- [Answer by eNeF for Firebase DeepLink does not work on Killed/Terminated App state in iOS14](https://stackoverflow.com/questions/65929749/firebase-deeplink-does-not-work-on-killed-terminated-app-state-in-ios14/66152222#66152222)
+- [Firebase DeepLink does not work on Killed/Terminated App state in iOS14](https://stackoverflow.com/questions/65929749/firebase-deeplink-does-not-work-on-killed-terminated-app-state-in-ios14)
 <!-- STACKOVERFLOW:END -->
 
 
