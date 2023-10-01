@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🗒 &nbsp;Guestbook
 <!--START_SECTION:guestbook-section-->
-<a href="https://github.com/nfhipona"><img src="https://avatars.githubusercontent.com/u/8805997?u=8b6d5144a4b1cf8a953b79fd38abffb7485389ed&v=4" height="30"/></a> <a href="https://github.com/nfhipona"><img src="https://avatars.githubusercontent.com/u/8805997?u=8b6d5144a4b1cf8a953b79fd38abffb7485389ed&v=4" height="30"/></a>
+<a href="https://github.com/nfhipona"><img src="https://avatars.githubusercontent.com/u/8805997?u=d6fb3a2c496478891b79f99be1ab40bf2c014426&v=4" height="30"/></a> <a href="https://github.com/nfhipona"><img src="https://avatars.githubusercontent.com/u/8805997?u=d6fb3a2c496478891b79f99be1ab40bf2c014426&v=4" height="30"/></a>
 
 * **[nfhipona](https://github.com/nfhipona) *wrote on 8/24/2023*:** v2.0.2 Remote Entry: Targe repo: [nfhipona](https://github.com/nfhipona/nfhipona)!
 * **[nfhipona](https://github.com/nfhipona) *wrote on 7/16/2023*:** This guestbook workflow was inspired by [readme-guestbook](https://github.com/muety/readme-guestbook)!
